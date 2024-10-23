@@ -1,89 +1,76 @@
 Auto Run CPP 🚀
 ===============
 
-Welcome to the **Auto Run CPP** project! Here, we dive into the exciting world of automated C++ execution. This tool aims to enhance your programming experience and efficiency. Let’s explore why this is important! 🌟
+Welcome to the **Auto Run CPP** project! Here, we dive into the exciting world of automated C++ execution. This tool aims to enhance your programming experience and efficiency. 
 
+Let’s dive into why this tool will take your coding abilities to a whole new dimension! 🌌
 
-Getting Started 🚦
-------------------
+![](https://i.pinimg.com/originals/09/03/90/090390912178a701853c3a5e162e5e7a.gif)
 
-To set up **Auto Run CPP** in your own projects, simply follow these steps:
+**Prepare for Battle: Speed and Precision!** ⚡💥
 
-### Prerequisites 📋
+**Your Quest Begins Now!** 🌠Like Goku's pursuit of strength, **Auto Run CPP** sharpens your skills with each battle. No more slow, tedious steps holding you back. Every time you write code, you’ll feel like you're charging up energy to unleash an unstoppable attack—_Kaio-ken level productivity_ is within your grasp!
 
-Before you begin, ensure you have the following installed:
+### **Getting Started: Power-Up Sequence!** 🚦
 
-*   **Python** (version 3.6 or later)
+Before you set off on this journey, prepare yourself to go **Super Saiyan!** The path to mastering **Auto Run CPP** is filled with power-ups and boosts!
+
+#### **Prerequisites for Training** 📋
+
+To unlock the full potential of **Auto Run CPP**, ensure your training ground is ready:
+
+*   **Python (version 3.6 or higher)** – Your guiding mentor.
     
-*   **C++ Compiler** (g++)
+*   **C++ Compiler (g++)** – The weapon of choice.
     
-*   **Git** (to clone the repository)
-    
-### Step 1: Clone the Repository 🛠️
-
-Open your terminal (or command prompt) and clone the repository using the following command:
-```
-git clone https://github.com/Raval-Arth/cpp_env.git   `
-```
-
-### Step 2: Navigate to the Project Directory 📂
-
-Change to the directory of the cloned repository:
-```
-cd cpp_env   `
-```
-
-### Step 3: Install watchdog Python Package 📦
-
-Run the following command to ensure you have watchdog installed:
-```
-pip install watchdog   `
-```
-
-### Step 4: Prepare Your C++ Files 📝
-
-Place your C++ source files (e.g., main.cpp) in the project directory. Ensure that your code is ready for compilation.
-
-### Step 5: Run the Python Script 🐍
-
-To automatically compile and run your C++ program, execute the following command:
-```
-python auto_run_cpp.py   `
-```
-
-This script will:
-
-1.  **Compile** your C++ files using the specified compiler.
-    
-2.  **Run** the compiled executable, displaying the output directly in your terminal.
-
-What is Auto Run CPP? 🤔
-------------------------
-
-**Auto Run CPP** is a clever setup designed to automatically compile and run your C++ programs with minimal manual intervention. No more tedious command-line typing—just write your code and let the magic happen! ✨
-
-Why Auto Run CPP? 🧐
---------------------
-
-1.  **Boost Productivity** ⏱️Automating the run process allows developers to focus on what truly matters: writing great code! By reducing the time spent on repetitive tasks, you can devote more energy to creativity and problem-solving.
-    
-2.  **Immediate Feedback** 🔄Quickly see the results of your changes! The auto-run feature provides instant feedback, helping you identify issues early in the development cycle. Catch bugs before they become headaches! 🐛
-    
-3.  **Encourages Experimentation** 🎨With reduced barriers to running code, you’re more likely to experiment and innovate. Try new algorithms, tweak parameters, and explore concepts without fear of tedious setups.
-    
-4.  **Learning Enhancement** 📚For beginners, the auto-run feature simplifies the learning curve. As you focus on understanding programming concepts, the hassle of manual execution fades away, allowing you to concentrate on mastering C++.
-    
-5.  **Streamlined Workflow** 🔗Integrating auto-run into your workflow can lead to a smoother coding experience. Combine it with version control systems like Git, and you’ll have a powerful toolkit at your fingertips! 🛠️   
-
-### Important Notes ⚠️
-    
-*   If you encounter any errors during compilation, review your C++ code for any syntax or logical issues.    
-*   You can modify the auto\_run\_cpp.py script to customize the compilation process or add additional features as needed.
+*   **Git** – To clone your path to victory.
     
 
-Join the Revolution! 🌐
------------------------
+### **Step-by-Step Saiyan Power-Up!** ⚙️
 
-Let’s transform the way we code! With **Auto Run CPP**, you can streamline your C++ programming, making it not only more efficient but also more enjoyable.
+**Step 1: Clone the Repository!** 🛠️With the energy of **Instant Transmission**, open your terminal and execute this command to bring the repository to your training grounds:
 
-Feel free to contribute, suggest improvements, or simply share your experience. Happy coding! 💻✨
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/Raval-Arth/cpp_env.git   `
+
+**Step 2: Enter the Arena!** 📂Navigate to your newfound battlefield:
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   cd cpp_env   `
+
+**Step 3: Install Your Capsule Tech!** 📦Harness the power of **watchdog** to monitor your progress:
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install watchdog   `
+
+**Step 4: Prepare for Combat!** 📝Position your C++ files in the arena, just like Goku prepares his stance. Your main.cpp awaits battle!
+
+**Step 5: Unleash the Power of Auto Run!** 🐍Execute this command and let the **Dragon Balls** of automation grant your wish:
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python auto_run_cpp.py   `
+
+Watch as your code compiles in an instant—like Goku launching a Kamehameha wave at the enemies of productivity! 🔥
+
+### **What is Auto Run CPP?** 🤔
+
+Auto Run CPP is your **Zenkai Boost!** It automatically compiles and runs your C++ programs with **zero manual effort.** No more typing out commands like a mere mortal—just pure, Super Saiyan efficiency! ⚡
+
+### **Why Choose Auto Run CPP?** 🧐
+
+**Boost Your Power Level!** ⏱️You’ll be able to **dodge time-wasting tasks** and focus your energy on the real battle—writing code. The **Hyperbolic Time Chamber** of coding is here, making every second count!
+
+**Instant Battle Feedback!** 🔄Much like the **Z Fighters** sense a shift in energy levels, Auto Run CPP provides you with immediate feedback on your code. Spot bugs before they turn into Frieza-level threats! 🐛
+
+**Unleash Your Creativity!** 🎨With no obstacles in your way, experimentation becomes second nature. **Test new strategies, algorithms, and moves** without the need to stop and reset every time. The world of possibilities is as vast as the **multiverse** itself!
+
+**Learning the Kamehameha!** 📚For newcomers stepping into the arena, Auto Run CPP simplifies the process. No need to worry about compilation—focus your energy on mastering the **Kamehameha** of coding!
+
+**A Seamless Warrior's Workflow!** 🔗With Auto Run CPP and **Git** working together, you’ll experience a **Fusion Dance** of productivity. Every code commit, every battle fought, brings you closer to victory! 💪
+
+### **Important Battle Tactics!** ⚠️
+
+*   Watch out for **enemy attacks** like syntax errors—keep your guard up!
+    
+*   Customize the auto\_run\_cpp.py script to suit your personal fighting style.
+    
+
+**Join the Saiyan Revolution!** 🌐Auto Run CPP is more than just a tool—it’s a **Super Saiyan transformation** for your C++ programming! Let’s push our limits, break through barriers, and achieve **Ultra Instinct** in coding. Share your experience, contribute to the mission, and together, we’ll forge a new era of development! 🌍
+
+Happy coding, Z Fighter! 💻⚡
