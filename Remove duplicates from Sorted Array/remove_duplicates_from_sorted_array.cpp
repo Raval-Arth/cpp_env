@@ -1,28 +1,12 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
+
 using namespace std;
 
-int removeDuplicates(vector<int> &arr)
+int removeDuplicates(vector<int> &nums)
 {
-
-    // To track seen elements
-    unordered_set<int> s;
-
-    // To maintain the new size of the array
-    int idx = 0;
-
-    for (int i = 0; i < arr.size(); i++)
-    {
-        if (s.find(arr[i]) == s.end())
-        {
-            
-            s.insert(arr[i]);       
-            arr[idx++] = arr[i];
-        }
-    }
-
-    // Return the size of the array
-    // with unique elements
-    return s.size();
+    vector<int>::iterator ip;
+    ip = unique(nums.begin(), nums.end());
+    return ip - nums.begin();
 }
 
 int main()
@@ -31,10 +15,5 @@ int main()
     int n = removeDuplicates(arr);
     for (int i = 0; i < n; i++)
         cout << arr[i] << " ";
-
-    int a, b;
-    cin >> a >> b;
-    cout << "\n"
-         << a << " " << b << endl;
     return 0;
 }
