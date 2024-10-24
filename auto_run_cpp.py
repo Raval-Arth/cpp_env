@@ -20,6 +20,9 @@ class CppFileHandler(FileSystemEventHandler):
             self.compile_and_run(event.src_path)
 
     def compile_and_run(self, cpp_file):
+        # clear console
+        os.system('cls')
+        
         # Get the file name without the extension
         file_name = os.path.splitext(os.path.basename(cpp_file))[0]
 
@@ -33,7 +36,7 @@ class CppFileHandler(FileSystemEventHandler):
         compile_command = f'g++ {cpp_file_quoted} -o "{output_executable}"'
         try:
             subprocess.run(compile_command, check=True, shell=True)
-            print(f'Compiled {cpp_file} successfully.')
+            print(f'\nCompiled {cpp_file} successfully.')
 
             # Determine the executable command based on the operating system
             if platform.system() == 'Windows':
